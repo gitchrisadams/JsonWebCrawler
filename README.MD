@@ -19,4 +19,7 @@ Results are also displayed in the console.
 I duplicated code putting the same code in both flask endpoints.
 In refactor I would look at putting code in one function and passing in internet1 and interne2 json files.
 
+## Screenshots
+![alt text](http://christopheradams.com/images/jsonWebCrawler1.png "JsonWebCrawler Image 1")
 
+![alt text](http://christopheradams.com/images/jsonWebCrawler2.png "JsonWebCrawler Image 2")
